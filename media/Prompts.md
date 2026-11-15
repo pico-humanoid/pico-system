@@ -1,0 +1,8 @@
+## 桌面壁纸生成提示词：
+Generated using the built-in image_gen tool.
+
+Use case: stylized-concept.
+Create one finished premium desktop wallpaper, landscape 16:9, ideally 3840x2160. White background, generous quiet negative space suitable for desktop icons, restrained cobalt blue matching reference #1, very pale cool gray details.
+Input image 1 is the primary brand reference: preserve the recognizable combined pi symbol and friendly robot head identity and PICO lettering. Adapt the white-on-blue mark into a clean cobalt-blue-on-white mark; no blue square background. Image 2 is supporting text reference only.
+Composition: large crisp PICO emblem with its PICO wordmark in the center-right area, occupying about one third of canvas width. Below, elegantly typeset "PICO-Humanoid", then much smaller "Predictive Intelligent Controlled Humanoid Robot". At the bottom-right, discrete small typography "Predictive Intelligent Control Lab" and "pico-humanoid.github.io" and "picontrollab.com". Use exact spelling, clean modern sans serif, controlled hierarchy and comfortable margins. Leave left third almost entirely white for icons.
+Expand the design tastefully through extremely subtle pale-blue engineering arcs, a few tiny coordinate nodes, and fine trajectory curves around and behind the central logo, suggesting predictive control and humanoid robotics. Sparse and sophisticated, elegant scientific research visual identity, flat vector-like precision with no simulated paper. The logo is the main focus. No invented physical robot model, no dramatic 3D robot, no extra slogans, no UI panels, no mockup frame, no watermark. Entire canvas should read as bright pure white with blue branding and barely visible technical accents.
